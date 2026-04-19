@@ -1,0 +1,20 @@
+:root {
+  --neptura-blue: #3B82F6;
+  --signal-green: #10B981;
+  --alert-orange: #F59E0B;
+  --dark-bg: #0B0E14;
+  --white: #FFFFFF;
+  --gray-400: #9CA3AF;
+}
+
+.bg-neptura-blue { background-color: var(--neptura-blue); }
+.bg-signal-green { background-color: var(--signal-green); }
+.bg-alert-orange { background-color: var(--alert-orange); }
+.bg-dark-bg { background-color: var(--dark-bg); }
+.bg-white { background-color: var(--white); }
+
+.text-neptura-blue { color: var(--neptura-blue); }
+.text-signal-green { color: var(--signal-green); }
+.text-alert-orange { color: var(--alert-orange); }
+.text-white { color: var(--white); }
+.text-gray-400 { color: var(--gray-400); }

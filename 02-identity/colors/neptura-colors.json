@@ -1,0 +1,40 @@
+{
+  "palette": {
+    "neptura_blue": {
+      "name": "Neptura Blue",
+      "hex": "#3B82F6",
+      "rgb": "rgb(59, 130, 246)",
+      "usage": "Primary, data, links"
+    },
+    "signal_green": {
+      "name": "Signal Green",
+      "hex": "#10B981",
+      "rgb": "rgb(16, 185, 129)",
+      "usage": "Success, CTAs"
+    },
+    "alert_orange": {
+      "name": "Alert Orange",
+      "hex": "#F59E0B",
+      "rgb": "rgb(245, 158, 11)",
+      "usage": "Warnings, alerts"
+    },
+    "dark_bg": {
+      "name": "Dark BG",
+      "hex": "#0B0E14",
+      "rgb": "rgb(11, 14, 20)",
+      "usage": "Primary background"
+    },
+    "white": {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "usage": "Text, accents"
+    },
+    "gray_400": {
+      "name": "Gray 400",
+      "hex": "#9CA3AF",
+      "rgb": "rgb(156, 163, 175)",
+      "usage": "Secondary text"
+    }
+  }
+}

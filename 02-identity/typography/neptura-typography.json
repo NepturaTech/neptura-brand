@@ -1,0 +1,104 @@
+{
+  "typography": {
+    "display_large": {
+      "font": "Inter Black",
+      "size": "64px",
+      "weight": 900,
+      "line_height": "1.1 (70px)",
+      "letter_spacing": "-1px",
+      "margin_top": "32px",
+      "margin_bottom": "24px",
+      "use_case": "Page titles, hero"
+    },
+    "display_medium": {
+      "font": "Inter Black",
+      "size": "48px",
+      "weight": 900,
+      "line_height": "1.2 (58px)",
+      "letter_spacing": "-0.5px",
+      "margin_top": "24px",
+      "margin_bottom": "20px",
+      "use_case": "Section titles"
+    },
+    "heading_1": {
+      "font": "Inter Bold",
+      "size": "36px",
+      "weight": 700,
+      "line_height": "1.2 (43px)",
+      "letter_spacing": "0px",
+      "margin_top": "20px",
+      "margin_bottom": "16px",
+      "use_case": "Main headings"
+    },
+    "heading_2": {
+      "font": "Inter Bold",
+      "size": "28px",
+      "weight": 700,
+      "line_height": "1.3 (36px)",
+      "letter_spacing": "0px",
+      "margin_top": "16px",
+      "margin_bottom": "12px",
+      "use_case": "Subsections"
+    },
+    "heading_3": {
+      "font": "Inter SemiBold",
+      "size": "24px",
+      "weight": 600,
+      "line_height": "1.3 (31px)",
+      "letter_spacing": "0px",
+      "margin_top": "12px",
+      "margin_bottom": "8px",
+      "use_case": "Component titles"
+    },
+    "body_large": {
+      "font": "Inter Regular",
+      "size": "18px",
+      "weight": 400,
+      "line_height": "1.6 (29px)",
+      "letter_spacing": "0px",
+      "margin_top": "8px",
+      "margin_bottom": "8px",
+      "use_case": "Lead paragraphs"
+    },
+    "body_regular": {
+      "font": "Inter Regular",
+      "size": "16px",
+      "weight": 400,
+      "line_height": "1.6 (26px)",
+      "letter_spacing": "0px",
+      "margin_top": "0px",
+      "margin_bottom": "16px",
+      "use_case": "Main body text"
+    },
+    "body_small": {
+      "font": "Inter Regular",
+      "size": "14px",
+      "weight": 400,
+      "line_height": "1.5 (21px)",
+      "letter_spacing": "0px",
+      "margin_top": "0px",
+      "margin_bottom": "12px",
+      "use_case": "Secondary text"
+    },
+    "caption": {
+      "font": "Inter Medium",
+      "size": "12px",
+      "weight": 500,
+      "line_height": "1.4 (17px)",
+      "letter_spacing": "0.5px",
+      "margin_top": "0px",
+      "margin_bottom": "4px",
+      "use_case": "Labels, tags"
+    },
+    "monospace": {
+      "font": "JetBrains Mono",
+      "size": "12px",
+      "weight": 400,
+      "line_height": "1.5 (18px)",
+      "letter_spacing": "0px",
+      "margin_top": "0px",
+      "margin_bottom": "0px",
+      "use_case": "Code, IDs"
+    }
+  }
+}
